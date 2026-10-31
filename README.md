@@ -1,160 +1,276 @@
 <div align="center">
 
-# Ibrahem Khalil
-### **Senior Mobile Architect & Principal Cross-Platform Engineer**
-*Flutter • Native Android (Kotlin / Jetpack Compose) • Multi-Module Clean Architecture • White-Label CI/CD*
+  <h1>⚡ Ibrahem Mohamed Khalil</h1>
+  <h3><b>Senior Mobile Architect & Principal Cross-Platform Engineer</b></h3>
+  <p><i>Architecting Resilient Flutter & Native Android Ecosystems • Multi-Module Clean Architecture • White-Label CI/CD</i></p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahem-khaleel-b0a137145)
-[![Gmail](https://img.shields.io/badge/ibrahemkhalil205@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahemkhalil205@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahemk)
+  <p>
+    <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0284C7?style=for-the-badge&logo=android&logoColor=white" alt="Experience" />
+    <img src="https://img.shields.io/badge/Focus-Flutter%20%26%20Native%20Android-7C3AED?style=for-the-badge&logo=flutter&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Multi--Module-059669?style=for-the-badge&logo=databricks&logoColor=white" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Quality-80%25%2B%20TDD%20Coverage-E11D48?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Quality" />
+  </p>
 
 </div>
 
 ---
 
-## ⚡ Executive Engineering Profile
+## 🎯 Engineering Impact & Core Metrics
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🏆 8+ Years</h3>
+      <p><b>Production Engineering</b><br/><i>Enterprise Flutter & Native Android</i></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🏢 20+ Apps</h3>
+      <p><b>White-Label Ecosystem</b><br/><i>Single-Engine Multi-Tenant CI/CD</i></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>⚡ -40% Startup</h3>
+      <p><b>Performance Gains</b><br/><i>Baseline Profiles & Compose Opt.</i></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛡️ 80%+ Coverage</h3>
+      <p><b>Automated Quality</b><br/><i>Unit, Widget, MockK & Golden Tests</i></p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ```yaml
-name: "Ibrahem Mohamed Khalil"
-role: "Senior Mobile Developer @ Devo Inv & Principal Mobile Consultant"
-experience: "8+ Years (Production Android & Flutter Ecosystems)"
+# ─── Principal Engineering Specification ──────────────────────────────────────
+engineer: "Ibrahem Mohamed Khalil"
+current_roles:
+  - "Senior Mobile Developer @ Devo Inv (Jan 2026 – Present)"
+  - "Senior Cross-Platform Consultant @ Freelance (Jan 2023 – Present)"
 education: "B.Sc. in Management Information Systems — Alexandria University"
 
-core_competencies:
-  - Cross-Platform & Native: ["Flutter (Dart)", "Android Native (Kotlin/Java)", "Jetpack Compose", "KMP"]
-  - System Architecture:     ["Clean Architecture", "Multi-Module", "MVI / MVVM", "BLoC / Cubit", "Riverpod"]
-  - Data & Persistence:      ["Offline-First Sync", "Drift (SQLite)", "Room DB", "Hive / Isar", "Encrypted Storage"]
-  - Enterprise & FinTech:    ["Stripe SDK", "OAuth2 / JWT", "SSL/TLS Certificate Pinning", "Method/Event Channels"]
-  - Release Engineering:     ["Multi-Tenant White-Labeling", "Fastlane", "GitHub Actions", "80%+ Automated QA"]
-```
-
-| 🏆 **8+ Years** | 🏢 **20+ Studio Brands** | 🚀 **-40% Cold Start** | 🛡️ **80%+ Test Coverage** |
-| :---: | :---: | :---: | :---: |
-| *Production Mobile Engineering* | *Single-Engine White-Label CI/CD* | *Baseline Profiles & Compose Opt.* | *JUnit5, MockK, Mocktail & Golden* |
-
----
-
-## 🏛️ Production Architecture Blueprint
-
-Every mobile platform I lead is built on strict **Clean Architecture**, **Unidirectional Data Flow (UDF)**, and **Offline-First** resilience—ensuring zero UI jank, complete domain isolation, and 100% data integrity under unstable network conditions.
-
-```mermaid
-flowchart TB
-    UI["🎨 Presentation Layer<br/>Flutter Widgets • Jetpack Compose • Material 3<br/>BLoC / Cubit • Riverpod • StateFlow • GoRouter"]
-    Domain["🧠 Domain Layer (Pure Dart / Kotlin)<br/>UseCases & Interactors • Immutable Entities (Freezed)<br/>Repository Interfaces (Strict SOLID)"]
-    Repo["🔄 Data Repository Orchestrator<br/>Offline-First Single Source of Truth"]
-
-    Remote["🌐 Network & Security<br/>Dio • Retrofit • GraphQL • gRPC<br/>OAuth2 • JWT • SSL/TLS Pinning"]
-    Local["💾 Local Persistence<br/>Drift (SQLite) • Room DB<br/>Hive • Isar • Encrypted Storage"]
-    Native["🔌 Native Bridges & SDKs<br/>Method & Event Channels<br/>Stripe Billing SDK • Firebase Suite"]
-
-    UI -->|"Events / Intents"| Domain
-    Domain -->|"Contracts"| Repo
-    Repo --> Remote
-    Repo --> Local
-    Repo --> Native
-
-    classDef uiLayer fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC;
-    classDef domainLayer fill:#1E1B4B,stroke:#A855F7,stroke-width:2px,color:#F8FAFC;
-    classDef dataLayer fill:#064E3B,stroke:#10B981,stroke-width:2px,color:#F8FAFC;
-    classDef nativeLayer fill:#3F1D38,stroke:#F43F5E,stroke-width:2px,color:#F8FAFC;
-
-    class UI uiLayer;
-    class Domain domainLayer;
-    class Repo,Remote,Local dataLayer;
-    class Native nativeLayer;
+architectural_pillars:
+  cross_platform_native: ["Flutter (Dart)", "Native Android (Kotlin/Java)", "Jetpack Compose", "KMP"]
+  state_and_patterns:    ["Clean Architecture", "Multi-Module", "BLoC / Cubit", "Riverpod", "MVI / MVVM"]
+  offline_first_data:    ["Drift (SQLite)", "Room Database", "Hive / Isar", "Encrypted Shared Storage"]
+  enterprise_security:   ["OAuth2 / JWT", "SSL/TLS Certificate Pinning", "Stripe Billing SDK", "MethodChannels"]
+  release_automation:    ["GitHub Actions", "Fastlane Flavors", "Google Play Console", "App Store Connect"]
 ```
 
 ---
 
-## 🏭 Multi-Tenant White-Label Release Engine
+## 🏛️ System Architecture & CI/CD Blueprints
 
-Architected an automated single-engine factory capable of compiling, branding, signing, and deploying **20+ commercial fitness & wellness applications** simultaneously to **Google Play** and **App Store Connect**:
+### 1. Clean Architecture & Offline-First Data Flow
+Every application is engineered with strict **Unidirectional Data Flow (UDF)**, complete domain isolation, and **Offline-First** persistence to guarantee 100% data integrity under unstable network conditions.
 
 ```mermaid
 flowchart LR
-    Core["📦 Core Monorepo<br/>Shared Domain & UI"] --> Injector["🎨 Brand Configurator<br/>Themes • Icons • Env"]
-    Injector --> CI["⚙️ GitHub Actions<br/>80%+ Automated Tests"]
-    CI --> Fastlane["🚀 Fastlane Automation<br/>20+ Studio Flavors"]
-    Fastlane --> Stores["📲 Google Play &<br/>App Store Connect"]
+    subgraph UI ["🎨 Presentation Layer"]
+        direction TB
+        W["Flutter Widgets &<br/>Jetpack Compose (M3)"]
+        S["BLoC / Cubit • Riverpod<br/>StateFlow • GoRouter"]
+        W --> S
+    end
 
-    style Core fill:#0284C7,stroke:#7DD3FC,stroke-width:2px,color:#ffffff
-    style Injector fill:#7C3AED,stroke:#C4B5FD,stroke-width:2px,color:#ffffff
-    style CI fill:#059669,stroke:#6EE7B7,stroke-width:2px,color:#ffffff
-    style Fastlane fill:#E11D48,stroke:#FDA4AF,stroke-width:2px,color:#ffffff
-    style Stores fill:#0F766E,stroke:#5EEAD4,stroke-width:2px,color:#ffffff
+    subgraph DOM ["🧠 Domain Layer (Pure)"]
+        direction TB
+        U["UseCases & Interactors"]
+        E["Immutable Entities (Freezed)<br/>Repository Contracts"]
+        U --> E
+    end
+
+    subgraph DATA ["🔄 Data & Native Layer"]
+        direction TB
+        R["Repository Orchestrator<br/>(Single Source of Truth)"]
+        L["💾 Local: Drift • Room • Hive"]
+        N["🌐 Remote: Dio • Retrofit • gRPC"]
+        P["🔌 Native: MethodChannels • Stripe"]
+        R --> L & N & P
+    end
+
+    UI ==>|"Intents / Events"| DOM
+    DOM ==>|"Clean Boundaries"| DATA
+
+    style UI fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC
+    style DOM fill:#1E1B4B,stroke:#A855F7,stroke-width:2px,color:#F8FAFC
+    style DATA fill:#064E3B,stroke:#10B981,stroke-width:2px,color:#F8FAFC
 ```
 
----
-
-## 📈 Career Trajectory
+### 2. Multi-Tenant White-Label Release Factory
+Automated single-engine pipeline capable of branding, testing, signing, and deploying **20+ commercial fitness studio apps** simultaneously:
 
 ```mermaid
 flowchart LR
-    R1["<b>2019 – 2020</b><br/>Mid-Senior Mobile Dev<br/><b>Easy Index</b><br/><i>REST & WebSockets</i>"]
-    R2["<b>2019 – 2022</b><br/>Mid-Senior Android Dev<br/><b>Venture Appital</b><br/><i>OAuth2, Room & 80% TDD</i>"]
-    R3["<b>2022 – 2026</b><br/>Senior Android Dev<br/><b>Venture Appital</b><br/><i>Compose, Multi-Module & Stripe</i>"]
-    R4["<b>2023 – Present</b><br/>Senior Mobile Consultant<br/><b>Global Freelance</b><br/><i>Flutter, KMP & Native Bridges</i>"]
-    R5["<b>2026 – Present</b><br/>Senior Mobile Developer<br/><b>Devo Inv</b><br/><i>Enterprise Flutter & CI/CD</i>"]
+    A["📦 Core Monorepo<br/>Shared UI & Domain"] ==> B["🎨 Flavor Engine<br/>Dynamic Themes & Assets"]
+    B ==> C["🧪 Quality Gate<br/>80%+ Unit & Golden Tests"]
+    C ==> D["🚀 Fastlane & GH Actions<br/>Automated Signing"]
+    D ==> E["📲 Store Release<br/>20+ Production Apps"]
 
-    R1 --> R2 --> R3 --> R4 --> R5
-
-    style R1 fill:#1E293B,stroke:#64748B,stroke-width:2px,color:#F8FAFC
-    style R2 fill:#1E1B4B,stroke:#818CF8,stroke-width:2px,color:#F8FAFC
-    style R3 fill:#3B0764,stroke:#C084FC,stroke-width:2px,color:#F8FAFC
-    style R4 fill:#0C4A6E,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC
-    style R5 fill:#064E3B,stroke:#34D399,stroke-width:2px,color:#F8FAFC
+    style A fill:#1E293B,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC
+    style B fill:#311042,stroke:#E879F9,stroke-width:2px,color:#F8FAFC
+    style C fill:#064E3B,stroke:#34D399,stroke-width:2px,color:#F8FAFC
+    style D fill:#451A03,stroke:#FBBF24,stroke-width:2px,color:#F8FAFC
+    style E fill:#1E1B4B,stroke:#818CF8,stroke-width:2px,color:#F8FAFC
 ```
 
 ---
 
-## 🛠️ Technology Matrix
+## 🛠️ Production Technology Matrix
 
-| Category | Production Technologies & Tooling |
-| :--- | :--- |
-| **📱 Languages & UI** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Android Native](https://img.shields.io/badge/Android_Native-3DDC84?style=flat-square&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **🏛️ Architecture & State** | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-10B981?style=flat-square) ![BLoC / Cubit](https://img.shields.io/badge/BLoC_/_Cubit-02569B?style=flat-square&logo=flutter&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=flat-square) ![MVVM / MVI](https://img.shields.io/badge/MVVM_/_MVI-8B5CF6?style=flat-square) ![Multi-Module](https://img.shields.io/badge/Multi--Module-F59E0B?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID_Principles-3B82F6?style=flat-square) |
-| **💉 DI & Navigation** | ![GetIt / Injectable](https://img.shields.io/badge/GetIt_/_Injectable-0284C7?style=flat-square) ![Hilt / Koin](https://img.shields.io/badge/Hilt_/_Koin-3DDC84?style=flat-square) ![GoRouter](https://img.shields.io/badge/GoRouter-0175C2?style=flat-square) ![AutoRoute](https://img.shields.io/badge/AutoRoute-6366F1?style=flat-square) ![Deep Linking](https://img.shields.io/badge/Deep_Linking-EC4899?style=flat-square) |
-| **🌐 Networking & Data** | ![Dio / Retrofit](https://img.shields.io/badge/Dio_/_Retrofit-3B82F6?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC_/_Protobuf-244C5A?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-1E293B?style=flat-square) ![Drift / SQLite](https://img.shields.io/badge/Drift_(SQLite)-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Room DB](https://img.shields.io/badge/Room_Database-3DDC84?style=flat-square) ![Hive / Isar](https://img.shields.io/badge/Hive_/_Isar-F59E0B?style=flat-square) |
-| **🚀 DevOps, QA & SDKs** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black) ![Stripe SDK](https://img.shields.io/badge/Stripe_SDK-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MethodChannels](https://img.shields.io/badge/Method_&_Event_Channels-02569B?style=flat-square) ![Automated Testing](https://img.shields.io/badge/JUnit5_•_MockK_•_Mocktail_•_Golden-10B981?style=flat-square) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Cross-Platform & Native UI</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏛️ Architecture, State & DI</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Clean_Architecture-059669?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/BLoC_/_Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/MVVM_/_MVI-7C3AED?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Multi--Module-EA580C?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Hilt_/_Koin-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
+        <img src="https://img.shields.io/badge/GetIt_/_Injectable-0284C7?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/GoRouter_/_AutoRoute-4F46E5?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Networking, Persistence & Bridges</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Dio_/_Retrofit-2563EB?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+        <img src="https://img.shields.io/badge/gRPC_/_Protobuf-244C5A?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/WebSockets-1E293B?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Drift_/_Room_DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hive_/_Isar-F59E0B?style=for-the-badge&logoColor=black" />
+        <img src="https://img.shields.io/badge/MethodChannels-02569B?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 DevOps, Cloud, Billing & QA</h4>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black" />
+        <img src="https://img.shields.io/badge/Stripe_SDK-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+        <img src="https://img.shields.io/badge/JUnit5_•_MockK_•_Golden-10B981?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Flagship Case Studies & Impact
+## 🏆 Flagship Architectural Case Studies
 
-| Project | Role | Key Architectural Highlights |
-| :--- | :--- | :--- |
-| **🏋️ ClassFit & ClassFit Business** | **Senior Android Developer** | • Spearheaded mobile development for an international fitness & studio management platform serving thousands of daily active users.<br/>• Engineered real-time class booking engines, calendar sync, and **Stripe SDK** recurring subscriptions.<br/>• Architected an **offline-first data layer** with reactive local persistence ensuring zero data loss during live studio check-ins. |
-| **🏢 Multi-Tenant White-Label Ecosystem** | **Senior Android Developer** | • Engineered an automated white-label architecture powering **20+ commercial fitness studio apps** (*Wright Way Fitness, Elucidate Studio, The Sculpt Club Pilates, Peak Pilates, LV Fitness*, etc.).<br/>• Configured dynamic theming, environment-based asset injection, and parameterized **Fastlane CI/CD** build flavors for simultaneous Android & iOS releases. |
-| **🎬 Eleven App (EdTech & Streaming)** | **Senior Mobile Engineer** | • Built responsive mobile interfaces and low-latency media playback pipelines delivering structured video curricula.<br/>• Engineered custom offline caching pipelines for video lessons and course assets to support continuous offline learning. |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏋️‍♂️ ClassFit & ClassFit Business</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Senior_Android_Dev-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Domain-FinTech_&_Fitness-0284C7?style=flat-square" />
+      </p>
+      <ul>
+        <li>Spearheaded mobile engineering for a global fitness & studio management platform serving <b>thousands of daily active users</b>.</li>
+        <li>Engineered real-time class booking engines, calendar sync, and <b>Stripe SDK</b> tokenized recurring subscriptions.</li>
+        <li>Architected an <b>offline-first Room & encrypted persistence layer</b> guaranteeing zero data loss during live studio check-ins.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏭 20+ White-Label Studio Suite</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Lead_Architect-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/Scale-20+_Production_Apps-E11D48?style=flat-square" />
+      </p>
+      <ul>
+        <li>Architected a single-engine multi-tenant ecosystem powering <b>20+ commercial brands</b> (<i>Wright Way, Elucidate, Sculpt Club, Peak Pilates, LV Fitness</i>).</li>
+        <li>Built dynamic runtime theming, automated asset injection, and parameterized <b>Fastlane CI/CD</b> build flavors.</li>
+        <li>Slashed multi-brand release overhead from days to minutes across Android & iOS.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎬 Eleven EdTech Streaming</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Senior_Mobile_Engineer-0284C7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Domain-Media_&_EdTech-F59E0B?style=flat-square" />
+      </p>
+      <ul>
+        <li>Built responsive cross-platform interfaces and custom low-latency media playback pipelines for structured video curricula.</li>
+        <li>Engineered background caching and encrypted chunk storage enabling uninterrupted <b>offline video learning</b>.</li>
+        <li>Optimized memory management and frame rendering for smooth playback across low-end devices.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Career Progression
+
+```mermaid
+flowchart LR
+    E1["<b>2019 – 2020</b><br/>Mid-Senior Mobile Dev<br/><b>Easy Index</b><br/><i>REST & WebSockets</i>"]
+    E2["<b>2019 – 2022</b><br/>Mid-Senior Android Dev<br/><b>Venture Appital</b><br/><i>OAuth2, Room & 80% TDD</i>"]
+    E3["<b>2022 – 2026</b><br/>Senior Android Dev<br/><b>Venture Appital</b><br/><i>Compose, -40% Startup & Stripe</i>"]
+    E4["<b>2023 – Present</b><br/>Senior Mobile Consultant<br/><b>Global Freelance</b><br/><i>Flutter, KMP & Native Bridges</i>"]
+    E5["<b>2026 – Present</b><br/>Senior Mobile Developer<br/><b>Devo Inv</b><br/><i>Enterprise Flutter & CI/CD</i>"]
+
+    E1 ==> E2 ==> E3 ==> E4 ==> E5
+
+    style E1 fill:#1E293B,stroke:#64748B,stroke-width:2px,color:#F8FAFC
+    style E2 fill:#1E1B4B,stroke:#818CF8,stroke-width:2px,color:#F8FAFC
+    style E3 fill:#3B0764,stroke:#C084FC,stroke-width:2px,color:#F8FAFC
+    style E4 fill:#0C4A6E,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC
+    style E5 fill:#064E3B,stroke:#34D399,stroke-width:2px,color:#F8FAFC
+```
 
 ---
 
 ## 📊 GitHub Engineering Telemetry
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahemk&theme=tokyonight" width="100%" alt="Profile Details"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahemk&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrahemk&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahemk&theme=tokyonight" width="48%" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ibrahemk&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Streak"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahemk&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrahemk&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ibrahemk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-
-### 🤝 Let's Architect Your Next Mobile Product
-*Open to Senior / Staff Mobile Engineering roles, Architectural Consulting, and Enterprise Flutter/Android Projects.*
-
-[![Email Me](https://img.shields.io/badge/Email-ibrahemkhalil205@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahemkhalil205@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahem-khaleel)
-
+  <h3>🤝 Let's Connect & Architect Scalable Mobile Products</h3>
+  <p><i>Available for Senior / Principal Mobile Architecture, Enterprise Flutter & Native Android Leadership</i></p>
+  <p>
+    <a href="https://www.linkedin.com/in/ibrahem-khaleel-b0a137145">
+      <img src="https://img.shields.io/badge/LinkedIn-Ibrahem_Khalil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ibrahemkhalil205@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-ibrahemkhalil205@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/ibrahemk">
+      <img src="https://img.shields.io/badge/GitHub-@ibrahemk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Location-Alexandria,_Egypt-059669?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    </a>
+  </p>
 </div>
