@@ -1,44 +1,81 @@
-<div align="center">
+Conversation with Gemini
 
-<!-- Animated Wave Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ibrahem%20Khalil&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Mobile%20Architect%20%7C%20Flutter%20%26%20Native%20Android%20Specialist&descAlignY=58&descSize=20" />
+https://github.com/ibrahemk
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=8%2B+Years+Engineering+Scalable+Mobile+Ecosystems+%F0%9F%9A%80;Flutter+(Dart)+%26+Native+Android+(Kotlin%2FCompose)+Expert;Clean+Architecture+%E2%80%A2+Multi-Module+%E2%80%A2+BLoC+%26+Riverpod;White-Label+CI%2FCD+Automation+%26+Offline-First+Systems" alt="Typing SVG" />
-</a>
+this my github email give me read me file to handle the ui of it
 
-<br/>
+I will generate a customized profile README.md designed specifically for your GitHub profile (ibrahemk), featuring clean visual badges, dynamic stats cards, skills sections, and social links.
+GitHub Profile README
+31 Oct, 02:04
+How to use this:
 
-<!-- Vibrant Contact & Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahem-khaleel-b0a137145)
-[![Gmail](https://img.shields.io/badge/ibrahemkhalil205@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahemkhalil205@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahemk)
+    Create a new public repository named exactly ibrahemk (matching your username).
 
+    Inside that repository, create a file named README.md.
 
-</div>
+    Paste the markdown content above and replace placeholders like YOUR-LINKEDIN and your-email@example.com with your actual links.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+    Commit the changes, and GitHub will automatically display this banner and layout on your profile page!
 
-## 🌈 Executive Summary
+this my cv handle it base of my cv
 
-> **Senior Mobile Developer with 8+ years of engineering experience**, specializing in **Flutter (Dart)** and cross-platform ecosystems alongside deep **Native Android (Kotlin/Java)** roots. Currently architecting scalable multi-platform applications at **Devo Inv** and consulting globally. Proven track record in **Clean Architecture**, reactive state management (**BLoC/Cubit, Riverpod, MVI**), **20+ brand White-Label ecosystems**, **Stripe payment pipelines**, and **80%+ automated test coverage**.
+Your Markdown file is ready
+MD icon
+README-v2
+ MD 
 
-<div align="center">
+Your GitHub profile README.md has been updated with the exact details from your CV:
 
-| 🚀 **8+ Years** | 📱 **20+ White-Label Apps** | ⚡ **40% Faster Cold Start** | 🧪 **80%+ Test Coverage** |
-| :---: | :---: | :---: | :---: |
-| Production Mobile Engineering | Automated Multi-Tenant Releases | Baseline Profiles & Compose Opt | JUnit5, MockK, Mocktail & Golden |
+    Direct Contact & Social Badges: Pre-linked with your email (ibrahemkhalil205@gmail.com), LinkedIn ([linkedin.com/in/ibrahem-khaleel](https://linkedin.com/in/ibrahem-khaleel)), GitHub ([github.com/ibrahemk](https://github.com/ibrahemk)), and Alexandria location.   
+    PDF+ 3
 
-</div>
+    Tailored Tech Stack Badges: Grouped into Cross-Platform & Languages (Flutter, Dart, Kotlin, Jetpack Compose, Java, C++, SQL), Architecture & State (Clean Architecture, BLoC/Cubit, Riverpod, MVVM/MVI, Multi-Module, Hilt, Koin, GetIt, GoRouter, AutoRoute), Networking & Persistence (Dio, Retrofit, GraphQL, gRPC, WebSockets, Drift, Room, Hive, Isar, Method/Event Channels), and DevOps & Payments (GitHub Actions, Fastlane, Firebase, Stripe SDK, Automated Testing).   
+    PDF+ 3
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+    Featured Projects Showcase: Highlights your architectural work on the ClassFit & ClassFit Business ecosystem, the Multi-Tenant White-Label Studio App Ecosystem (20+ commercial fitness studio apps), and Eleven App.   
+    PDF+ 2
 
-## 🧭 System Architecture Blueprint (Flowchart)
+    Experience Snapshot: Outlines your roles at Devo Inv, Freelance Mobile Consulting, Venture Appital, and Easy Index.   
+    PDF+ 4
 
-Here is how I architect resilient, offline-first, multi-module **Flutter & Native Android** applications:
+    Dynamic GitHub Stats: Configured to pull live commit, streak, and top language metrics directly from your ibrahemk profile.   
+    PDF
 
-```mermaid
+Rename the downloaded file to README.md and push it to the root of your public ibrahemk/ibrahemk repository on GitHub.
+
+can make this more coloring and have flow chart
+
+I will now update your GitHub Profile README to feature vibrant SVG header banners, animated typing text, colorful custom badges, and interactive Mermaid.js flowcharts (supported natively by GitHub) that visually map out your Clean Architecture workflow, your Multi-Tenant White-Label CI/CD pipeline, and your career journey.
+GitHub Profile README
+🌈 Executive Summary
+
+    Senior Mobile Developer with 8+ years of engineering experience, specializing in Flutter (Dart) and cross-platform ecosystems alongside deep Native Android (Kotlin/Java) roots. Currently architecting scalable multi-platform applications at Devo Inv and consulting globally. Proven track record in Clean Architecture, reactive state management (BLoC/Cubit, Riverpod, MVI), 20+ brand White-Label ecosystems, Stripe payment pipelines, and 80%+ automated test coverage.
+
+🚀 8+ Years
+	
+
+📱 20+ White-Label Apps
+	
+
+⚡ 40% Faster Cold Start
+	
+
+🧪 80%+ Test Coverage
+
+Production Mobile Engineering
+	
+
+Automated Multi-Tenant Releases
+	
+
+Baseline Profiles & Compose Opt
+	
+
+JUnit5, MockK, Mocktail & Golden
+🧭 System Architecture Blueprint (Flowchart)
+
+Here is how I architect resilient, offline-first, multi-module Flutter & Native Android applications:
+
 flowchart TB
     subgraph UI["🎨 Presentation Layer (Flutter UI / Jetpack Compose)"]
         direction LR
@@ -97,15 +134,11 @@ flowchart TB
     class UseCases,Entities,RepoContracts domainStyle;
     class RepoImpl,REST,Socket,Security,DB,SecStore dataStyle;
     class Channels,Stripe,Firebase highlight;
-```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+🏭 Multi-Tenant White-Label CI/CD Pipeline
 
-## 🏭 Multi-Tenant White-Label CI/CD Pipeline
+How I engineered a single codebase to automatically build, theme, test, and deploy 20+ commercial fitness studio apps simultaneously:
 
-How I engineered a single codebase to automatically build, theme, test, and deploy **20+ commercial fitness studio apps** simultaneously:
-
-```mermaid
 flowchart LR
     Code["💻 Core Single-Engine<br/>Codebase"] --> Config["🎨 Dynamic Brand Injector<br/>(Themes, Fonts, JSON Env, Icons)"]
     Config --> CI["⚙️ GitHub Actions<br/>Trigger"]
@@ -126,60 +159,14 @@ flowchart LR
     style Quality fill:#238636,stroke:#3FB950,stroke-width:2px,color:#fff
     style Fastlane fill:#DA3633,stroke:#FF7B72,stroke-width:2px,color:#fff
     style Stores fill:#00897B,stroke:#4DB6AC,stroke-width:2px,color:#fff
-```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+🛠️ Colorful Tech Stack Arsenal
+📱 Cross-Platform & Core Languages
+🏛️ Architecture, State Management & DI
+🌐 Networking, Persistence & Native Bridges
+🚀 DevOps, Payments, Security & QA
+📈 Career Journey Flowchart
 
-## 🛠️ Colorful Tech Stack Arsenal
-
-<div align="center">
-
-### 📱 Cross-Platform & Core Languages
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android Native](https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🏛️ Architecture, State Management & DI
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00C853?style=for-the-badge&logo=architectural-digest&logoColor=white)
-![BLoC / Cubit](https://img.shields.io/badge/BLoC_/_Cubit-00B4AB?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-027DFD?style=for-the-badge&logo=dart&logoColor=white)
-![MVVM / MVI](https://img.shields.io/badge/MVVM_&_MVI-9C27B0?style=for-the-badge&logo=kotlin&logoColor=white)
-![Multi-Module](https://img.shields.io/badge/Multi--Module-FF6D00?style=for-the-badge&logo=android&logoColor=white)
-![GetIt & Injectable](https://img.shields.io/badge/GetIt_&_Injectable-00ACC1?style=for-the-badge)
-![Hilt & Koin](https://img.shields.io/badge/Hilt_&_Koin-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![GoRouter & AutoRoute](https://img.shields.io/badge/GoRouter_&_AutoRoute-536DFE?style=for-the-badge)
-
-### 🌐 Networking, Persistence & Native Bridges
-![Dio & Retrofit](https://img.shields.io/badge/Dio_&_Retrofit-FF4081?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC / Protobuf](https://img.shields.io/badge/gRPC_Protobuf-244C5A?style=for-the-badge&logo=google&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-F50057?style=for-the-badge)
-![Drift & Room DB](https://img.shields.io/badge/Drift_&_Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive & Isar](https://img.shields.io/badge/Hive_&_Isar_NoSQL-FFB300?style=for-the-badge&logoColor=black)
-![Platform Channels](https://img.shields.io/badge/Method_&_Event_Channels-00E676?style=for-the-badge&logo=flutter&logoColor=black)
-
-### 🚀 DevOps, Payments, Security & QA
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
-![Stripe SDK](https://img.shields.io/badge/Stripe_SDK-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![OAuth2 & SSL Pinning](https://img.shields.io/badge/OAuth2_&_SSL_Pinning-D50000?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![TDD & Automated Tests](https://img.shields.io/badge/JUnit5_•_MockK_•_Mocktail_•_Golden-00C853?style=for-the-badge)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Career Journey Flowchart
-
-```mermaid
 timeline
     title 🚀 Ibrahem Khalil's Mobile Engineering Progression
     2019 - 2020 : Mid-Senior Mobile Developer @ Easy Index
@@ -192,72 +179,490 @@ timeline
                    : Flutter & KMP Architecture, Custom MethodChannels & Legacy Modularization
     2026 - Present : Mobile Developer @ Devo Inv
                    : Scalable Flutter Clean Architecture, BLoC/Cubit & Automated CI/CD Pipelines
+
+🏆 Flagship Architectural Case Studies
+📊 Live GitHub Analytics & Activity
+Edit directly or with Gemini
+ Click anywhere to type and edit directly, or select text to prompt Gemini for changes. 
+What's New in This Version:
+
+    3 Native Mermaid.js Flowcharts (Zero External Images Needed):
+
+        System Architecture Blueprint: A color-coded flowchart showing how your Presentation Layer (Flutter/Compose, BLoC/Riverpod, GoRouter) talks to your Domain Layer (UseCases, Entities) and Offline-First Data Layer (Dio/Retrofit, Drift/Room, MethodChannels, Stripe, Firebase).
+
+        Multi-Tenant White-Label CI/CD Flowchart: Visually demonstrates how your single-engine codebase injects themes, passes through 80%+ test gates, and uses Fastlane to deploy 20+ fitness apps.
+
+        Career Progression Timeline: A visual timeline from 2019 to your current 2026 role at Devo Inv.
+
+    Vibrant Visual Enhancements:
+
+        Animated Gradient Wave Header & Footer (capsule-render).
+
+        Animated Typing Subtitle cycling through your core strengths.
+
+        Rainbow Animated Section Dividers and for-the-badge colorful shields.
+
+        Neon Cyberpunk (radical) Theme for your GitHub Stats, Streak Counter, and full-width Contribution Activity Graph.
+
+how will make it about in my account in github
+🚀 Multi-Tenant White-Label CI/CD Pipeline
+
+Engineered to build, test, and deploy 20+ branded fitness apps simultaneously from a single core codebase :   
+PDF
+Code snippet
+
+sequenceDiagram
+    autonumber
+    participant Dev as Core Codebase
+    participant CI as GitHub Actions
+    participant FL as Fastlane Automation
+    participant ST as Store Deployment
+
+    Dev->>CI: Push Git Tag / Release Trigger
+    CI->>CI: Run Unit, Widget & Golden Tests (80%+ Coverage)
+    CI->>FL: Trigger Build Flavors & Asset Injection
+    Note over FL: Inject Dynamic Branding,<br/>App IDs & Theme Attributes
+    FL->>FL: Compile Native Android & Flutter Packages
+    FL->>ST: Automated Google Play Console Release
+
+📈 Career Progression
+Code snippet
+
+flowchart LR
+    subgraph Devo Inv ['2026 - Present']
+        direction TB
+        D1[Mobile Developer] --> D2[Cross-Platform Solutions]
+    end
+
+    subgraph Freelance ['2023 - Present']
+        direction TB
+        F1[Senior Mobile Consultant] --> F2[Architecture & Native Bridges]
+    end
+
+    subgraph Venture Appital ['2019 - 2026']
+        direction TB
+        V1[Senior Android Dev] --> V2[Mid-Senior Android Dev]
+    end
+
+    subgraph Easy Index ['2019 - 2020']
+        direction TB
+        E1[Mid-Senior Mobile Dev]
+    end
+
+    Easy Index --> Venture Appital
+    Venture Appital --> Freelance
+    Freelance --> Devo Inv
+
+    style Devo Inv fill:#2EA44F,stroke:#fff,stroke-width:2px,color:#fff
+    style Freelance fill:#02569B,stroke:#fff,stroke-width:2px,color:#fff
+    style Venture Appital fill:#7F52FF,stroke:#fff,stroke-width:2px,color:#fff
+    style Easy Index fill:#FF6F00,stroke:#fff,stroke-width:2px,color:#fff
+
+🛠️ Tech Stack & Tooling
+📱 Cross-Platform & Languages
+🏛️ Architecture, State & DI
+🌐 Networking, Persistence & Native Interop
+🚀 DevOps, Cloud, Payments & Testing
+🏆 Featured Projects & Architectural Highlights
+Project	Role	Key Architectural Highlights
+ClassFit & ClassFit Business	
+
+Senior Android Developer
+PDF
+	
+
+• International fitness & studio management platform serving thousands of daily users .
+PDF
+
+• Real-time class booking engines, calendar sync, and Stripe SDK recurring subscriptions .
+PDF
+
+• Offline-first reactive persistence ensuring zero data loss during live studio check-ins .
+PDF
+Multi-Tenant White-Label Ecosystem	
+
+Senior Android Developer
+PDF
+	
+
+• Single-engine multi-brand architecture powering 20+ commercial fitness studio apps (Wright Way Fitness, Elucidate Studio, The Sculpt Club Pilates, Peak Pilates, LV Fitness, HappyHourFitness, etc.) .
+PDF
+
+• Dynamic runtime theming, asset injection, and parameterized Fastlane CI/CD pipelines .
+PDF
+Eleven App (EdTech & Streaming)	
+
+Senior Mobile Engineer
+PDF
+	
+
+• Interactive educational streaming platform delivering low-latency structured video curricula .
+PDF
+
+• Custom media playback & offline caching pipelines for uninterrupted learning .
+PDF
+📊 GitHub Analytics
+
+with open("README-v3.md", "w", encoding="utf-8") as f:
+f.write(readme_content)
+
+print("Saved README-v3.md successfully.")
+
+
+```text?code_stdout&code_event_index=1
+Saved README-v3.md successfully.
+
+Your colorful and interactive GitHub profile README is ready
+MD icon
+README-v3
+ MD 
+What Makes This Version Stand Out:
+
+    Interactive Mermaid.js Flowcharts (Native GitHub Support):
+
+        System Architecture Blueprint: Maps out how your UI (Flutter/Compose) communicates through BLoC/Riverpod to Clean Architecture UseCases, Dio/Retrofit, Drift/Room, and native hardware/Stripe bridges.
+
+        CI/CD Pipeline Sequence Diagram: Visually details how your GitHub Actions and Fastlane pipeline automates testing and deploys your 20+ white-label studio apps[cite: 2].
+
+        Career Progression Flowchart: Color-coded roadmap tracking your professional journey from Easy Index, Venture Appital, and Freelance Consulting to Devo Inv[cite: 1, 2].
+
+    Vibrant Visual Styling & Stats:
+
+        Animated Waving Header Banner customized with your title and name[cite: 1].
+
+        Radical Cyberpunk Theme applied to your GitHub stats, top languages, streak counter, and full-width commit activity graph.
+
+        Color-Coded Badge Grid highlighting your entire cross-platform, architecture, persistence, and DevOps toolchain.
+
+How to apply it:
+
+    Download the generated README-v3.md file.
+
+    Create a public repository on GitHub named exactly ibrahemk (matching your username).
+
+    Paste the file content into the repository's README.md file and commit your changes!
+
+اعمل ايه
+
+هذه الصفحة في GitHub هي لإنشاء مستودع جديد (Repository) خاص ببروفايلك الشخصي بنفس اسم يوزر نيم الخاص بك (ibrahemk). كما تظهر رسالة التنبيه الزرقاء في الصورة، هذا المستودع مميز (special repository) وسيظهر محتواه في صفحة بروفايلك الرئيسية.
+
+لكي تكمل الخطوة بشكل صحيح، قم بالآتي بناءً على ما يظهر في الصورة:
+
+    خيارات Visibility (الظهور): اتركها على خيار Public (عام) كما هي ظاهرة في الصورة، لأن البروفايل يتطلب أن يكون المستودع عاماً ليظهر للجميع.
+
+    إضافة ملف README (مهم جداً):
+
+        في خيار Add README الظاهر في الأسفل (وهو مغلق الآن Off)، قم بتفعيله (اجعله On) لكي ينشئ لك ملف README.md تلقائياً مع إنشاء المستودع.
+
+    زر الإنشاء: بعد تفعيل الـ README، اضغط على الزر الأخضر في الأسفل "Create repository".
+
+بعد إنشاء المستودع، افتح ملف README.md الذي تم إنشاؤه، واحذف المحتوى الافتراضي، ثم الصق فيه كود الـ Markdown الخاص ببروفايلك (الذي قمنا بتجهيزه بالأشكال والخرائط والـ Tech Stack) واضغط على Commit changes. مبروك مقدماً!
+
+after make it i found some image not work fixed it.
+🚀 Multi-Tenant White-Label CI/CD Pipeline
+
+Engineered to build, test, and deploy 20+ branded fitness apps simultaneously from a single core codebase [cite: 2]:
+Code snippet
+
+sequenceDiagram
+    autonumber
+    participant Dev as Core Codebase
+    participant CI as GitHub Actions
+    participant FL as Fastlane Automation
+    participant ST as Store Deployment
+
+    Dev->>CI: Push Git Tag / Release Trigger
+    CI->>CI: Run Unit, Widget & Golden Tests (80%+ Coverage)
+    CI->>FL: Trigger Build Flavors & Asset Injection
+    Note over FL: Inject Dynamic Branding,<br/>App IDs & Theme Attributes
+    FL->>FL: Compile Native Android & Flutter Packages
+    FL->>ST: Automated Google Play Console Release
+
+📈 Career Progression
+Code snippet
+
+flowchart LR
+    subgraph Devo Inv ['2026 - Present']
+        direction TB
+        D1[Mobile Developer] --> D2[Cross-Platform Solutions]
+    end
+
+    subgraph Freelance ['2023 - Present']
+        direction TB
+        F1[Senior Mobile Consultant] --> F2[Architecture & Native Bridges]
+    end
+
+    subgraph Venture Appital ['2019 - 2026']
+        direction TB
+        V1[Senior Android Dev] --> V2[Mid-Senior Android Dev]
+    end
+
+    subgraph Easy Index ['2019 - 2020']
+        direction TB
+        E1[Mid-Senior Mobile Dev]
+    end
+
+    Easy Index --> Venture Appital
+    Venture Appital --> Freelance
+    Freelance --> Devo Inv
+
+    style Devo Inv fill:#2EA44F,stroke:#fff,stroke-width:2px,color:#fff
+    style Freelance fill:#02569B,stroke:#fff,stroke-width:2px,color:#fff
+    style Venture Appital fill:#7F52FF,stroke:#fff,stroke-width:2px,color:#fff
+    style Easy Index fill:#FF6F00,stroke:#fff,stroke-width:2px,color:#fff
+
+🛠️ Tech Stack & Tooling
+📱 Cross-Platform & Languages
+🏛️ Architecture, State & DI
+🌐 Networking, Persistence & Native Interop
+🚀 DevOps, Cloud, Payments & Testing
+🏆 Featured Projects & Architectural Highlights
+Project	Role	Key Architectural Highlights
+ClassFit & ClassFit Business	Senior Android Developer [cite: 2]	
+
+• International fitness & studio management platform serving thousands of daily users [cite: 2].
+
+• Real-time class booking engines, calendar sync, and Stripe SDK recurring subscriptions [cite: 2].
+
+• Offline-first reactive persistence ensuring zero data loss during live studio check-ins [cite: 2].
+Multi-Tenant White-Label Ecosystem	Senior Android Developer [cite: 2]	
+
+• Single-engine multi-brand architecture powering 20+ commercial fitness studio apps (Wright Way Fitness, Elucidate Studio, The Sculpt Club Pilates, Peak Pilates, LV Fitness, HappyHourFitness, etc.) [cite: 2].
+
+• Dynamic runtime theming, asset injection, and parameterized Fastlane CI/CD pipelines [cite: 2].
+Eleven App (EdTech & Streaming)	Senior Mobile Engineer [cite: 2]	
+
+• Interactive educational streaming platform delivering low-latency structured video curricula [cite: 2].
+
+• Custom media playback & offline caching pipelines for uninterrupted learning [cite: 2].
+📊 GitHub Analytics
+
+with open("README-v4.md", "w", encoding="utf-8") as f:
+f.write(readme_content)
+
+print("Saved README-v4.md successfully.")
+
+
+```text?code_stdout&code_event_index=1
+Saved README-v4.md successfully.
+
+Your updated, fully fixed GitHub profile README is ready
+MD icon
+README-v4
+ MD 
+What Was Fixed:
+
+    Broken Inline Tech Stack Badges: Grouped all badge lists inside HTML <p> tags with proper wrapping so that GitHub correctly parses and renders them side-by-side without breaking.
+
+    GitHub Stats Layout Correction: Wrapped the stats cards side-by-side using width="48%" formatting to ensure they fit neatly on all screen sizes without wrapping or collapsing.
+
+    Preserved Interactive Flowcharts: Kept the native Mermaid.js Clean Architecture, CI/CD pipeline sequence diagram, and career progression flowchart fully functional.
+
+How to apply the fix:
+
+    Copy the code from the new README-v4.md file.
+
+    Go to your ibrahemk/ibrahemk repository on GitHub.
+
+    Open your README.md file, replace its content with this updated version, and click Commit changes.
+
+
+Gemini is AI and can make mistakes.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=220&section=header&text=Ibrahem%20Khalil&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontWeight=600&desc=Senior%20Mobile%20Developer%20|%20Flutter%20&%20Native%20Android&descSize=16&descAlignY=62" width="100%"/>
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahem-khaleel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahemkhalil205@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahemk)
+[![Location](https://img.shields.io/badge/Alexandria,_Egypt-30363D?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+Senior Mobile Developer with **8+ years** of engineering experience specializing in **Flutter (Dart)** and **Native Android (Kotlin/Java)** ecosystems. 
+
+- 🔭 Currently contributing as a **Mobile Developer at Devo Inv** [cite: 1] & **Senior Cross-Platform Consultant** [cite: 1].
+- 🏗️ Passionate about **Clean Architecture**, **Multi-Module Systems**, and reactive state management (**BLoC/Cubit, Riverpod, MVI/MVVM**).
+- ⚡ Proven track record building **multi-tenant white-label ecosystems** (20+ commercial apps) [cite: 2], **offline-first data layers**, and seamless **Stripe payment** & **real-time media** pipelines [cite: 1, 2].
+- 🧪 Strong advocate for **TDD**, automated testing (80%+ coverage), and **CI/CD automation** via GitHub Actions & Fastlane [cite: 1].
+
+---
+
+### 🏛️ System Architecture Blueprint
+Below is the core architectural flow implemented across production applications, separating presentation, domain, and data layers with offline persistence and reactive state management:
+
+```mermaid
+graph TD
+    classDef ui fill:#02569B,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef domain fill:#2EA44F,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef data fill:#7F52FF,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef ext fill:#FF6F00,stroke:#fff,stroke-width:2px,color:#fff;
+
+    A[Flutter / Jetpack Compose UI] -->|User Events / MVI / BLoC| B[State Management / Cubit / Riverpod]:::ui
+    B -->|Execute UseCase| C[Domain Layer / Business Logic]:::domain
+    C -->|Fetch Repository Data| D[Data Repository / Repository Pattern]:::data
+    
+    D -->|Remote Sync| E[Dio / Retrofit / GraphQL / gRPC]:::ext
+    D -->|Local Cache / Offline-First| F[Drift / Room Database / Hive]:::ext
+    D -->|Native Hardware & Billing| G[MethodChannels / Stripe SDK]:::ext
+
+    style A fill:#02569B,color:#fff
+    style B fill:#02569B,color:#fff
+    style C fill:#2EA44F,color:#fff
+    style D fill:#7F52FF,color:#fff
+    style E fill:#FF6F00,color:#fff
+    style F fill:#FF6F00,color:#fff
+    style G fill:#FF6F00,color:#fff
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🏆 Flagship Architectural Case Studies
+### 🚀 Multi-Tenant White-Label CI/CD Pipeline
+Engineered to build, test, and deploy **20+ branded fitness apps** simultaneously from a single core codebase [cite: 2]:
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🏋️‍♂️ ClassFit & ClassFit Business</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Role-Senior_Android_Dev-7F52FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Payment-Stripe_SDK-635BFF?style=flat-square" />
-      </p>
-      <ul>
-        <li>Spearheaded mobile engineering for an international fitness & studio management platform serving thousands of daily users.</li>
-        <li>Built real-time class booking engines, calendar sync, and <b>Stripe SDK</b> recurring subscriptions.</li>
-        <li>Architected an <b>offline-first reactive persistence layer</b> guaranteeing zero data loss during live studio check-ins.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🏢 20+ Brand White-Label Ecosystem</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Scale-20+_Commercial_Apps-00C853?style=flat-square" />
-        <img src="https://img.shields.io/badge/CI/CD-Fastlane-00F200?style=flat-square&logoColor=black" />
-      </p>
-      <ul>
-        <li>Engineered an automated multi-tenant architecture powering <b>20+ fitness brands</b> (<i>Wright Way Fitness, Elucidate Studio, The Sculpt Club Pilates, Peak Pilates, LV Fitness</i>, etc.).</li>
-        <li>Configured dynamic runtime theming, environment asset injection, and parameterized <b>Fastlane CI/CD</b> build flavors for simultaneous Android & iOS releases.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🎬 Eleven App (EdTech Streaming)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Role-Senior_Mobile_Engineer-02569B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Media-Low_Latency_Video-FF4081?style=flat-square" />
-      </p>
-      <ul>
-        <li>Built responsive cross-platform interfaces and custom media playback pipelines delivering low-latency structured video curricula.</li>
-        <li>Engineered encrypted local video caching pipelines to enable seamless, continuous <b>offline learning</b>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```mermaid
+sequenceDiagram
+    autonumber
+    participant Dev as Core Codebase
+    participant CI as GitHub Actions
+    participant FL as Fastlane Automation
+    participant ST as Store Deployment
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+    Dev->>CI: Push Git Tag / Release Trigger
+    CI->>CI: Run Unit, Widget & Golden Tests (80%+ Coverage)
+    CI->>FL: Trigger Build Flavors & Asset Injection
+    Note over FL: Inject Dynamic Branding,<br/>App IDs & Theme Attributes
+    FL->>FL: Compile Native Android & Flutter Packages
+    FL->>ST: Automated Google Play Console Release
+```
 
-## 📊 Live GitHub Analytics & Activity
+---
+
+### 📈 Career Progression
+
+```mermaid
+flowchart LR
+    subgraph Devo Inv ['2026 - Present']
+        direction TB
+        D1[Mobile Developer] --> D2[Cross-Platform Solutions]
+    end
+
+    subgraph Freelance ['2023 - Present']
+        direction TB
+        F1[Senior Mobile Consultant] --> F2[Architecture & Native Bridges]
+    end
+
+    subgraph Venture Appital ['2019 - 2026']
+        direction TB
+        V1[Senior Android Dev] --> V2[Mid-Senior Android Dev]
+    end
+
+    subgraph Easy Index ['2019 - 2020']
+        direction TB
+        E1[Mid-Senior Mobile Dev]
+    end
+
+    Easy Index --> Venture Appital
+    Venture Appital --> Freelance
+    Freelance --> Devo Inv
+
+    style Devo Inv fill:#2EA44F,stroke:#fff,stroke-width:2px,color:#fff
+    style Freelance fill:#02569B,stroke:#fff,stroke-width:2px,color:#fff
+    style Venture Appital fill:#7F52FF,stroke:#fff,stroke-width:2px,color:#fff
+    style Easy Index fill:#FF6F00,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+#### 📱 Cross-Platform & Languages
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Native-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+#### 🏛️ Architecture, State & DI
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-2EA44F?style=flat-square" />
+  <img src="https://img.shields.io/badge/BLoC_/_Cubit-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/MVVM_/_MVI-7F52FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--Module-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hilt_/_Koin-3DDC84?style=flat-square" />
+  <img src="https://img.shields.io/badge/GetIt_/_Injectable-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/GoRouter_/_AutoRoute-0175C2?style=flat-square" />
+</p>
+
+#### 🌐 Networking, Persistence & Native Interop
+<p>
+  <img src="https://img.shields.io/badge/Dio_/_Retrofit-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
+  <img src="https://img.shields.io/badge/Drift_/_Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive_/_Isar-FFCA28?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Platform_Channels-02569B?style=flat-square" />
+</p>
+
+#### 🚀 DevOps, Cloud, Payments & Testing
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD_&_Testing-2EA44F?style=flat-square" />
+</p>
+
+---
+
+### 🏆 Featured Projects & Architectural Highlights
+
+| Project | Role | Key Architectural Highlights |
+| :--- | :--- | :--- |
+| **ClassFit & ClassFit Business** | Senior Android Developer [cite: 2] | • International fitness & studio management platform serving thousands of daily users [cite: 2].<br>• Real-time class booking engines, calendar sync, and **Stripe SDK** recurring subscriptions [cite: 2].<br>• Offline-first reactive persistence ensuring zero data loss during live studio check-ins [cite: 2]. |
+| **Multi-Tenant White-Label Ecosystem** | Senior Android Developer [cite: 2] | • Single-engine multi-brand architecture powering **20+ commercial fitness studio apps** (*Wright Way Fitness, Elucidate Studio, The Sculpt Club Pilates, Peak Pilates, LV Fitness, HappyHourFitness*, etc.) [cite: 2].<br>• Dynamic runtime theming, asset injection, and parameterized **Fastlane CI/CD** pipelines [cite: 2]. |
+| **Eleven App (EdTech & Streaming)** | Senior Mobile Engineer [cite: 2] | • Interactive educational streaming platform delivering low-latency structured video curricula [cite: 2].<br>• Custom media playback & offline caching pipelines for uninterrupted learning [cite: 2]. |
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahemk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF4081&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahemk&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahemk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahemk&layout=compact&langs_count=8&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahemk&theme=radical&hide_border=true&background=0D1117&stroke=00E5FF&ring=FF4081&fire=FFEA00&currStreakLabel=00E5FF" alt="ibrahemk streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahemk&theme=radical&hide_border=true" width="100%" alt="ibrahemk streak"/>
 </div>
 
-<!-- Animated Contribution Snake / Activity Graph -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahemk&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahemk&bg_color=0D1117&color=00E5FF&line=FF4081&point=FFEA00&area=true&hide_border=true" />
+  <b>Let's connect and build something scalable together!</b><br><br>
+  <a href="mailto:ibrahemkhalil205@gmail.com">📧 ibrahemkhalil205@gmail.com</a> • 
+  <a href="https://linkedin.com/in/ibrahem-khaleel">💼 LinkedIn</a>
 </div>
 
-<div align="center">
-
-<!-- Animated Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Architect%20Your%20Next%20Mobile%20Product!&fontSize=24&fontColor=fff&fontAlignY=65" />
-
-</div>
+README-v4.md
+Displaying README-v4.md.
