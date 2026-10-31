@@ -30,27 +30,6 @@ graph TD
 
 ---
 
-### 🚀 Multi-Tenant White-Label CI/CD Pipeline
-Engineered to build, test, and deploy **20+ branded fitness apps** simultaneously from a single core codebase [cite: 2]:
-
-```mermaid
-sequenceDiagram
-    autonumber
-    participant Dev as Core Codebase
-    participant CI as GitHub Actions
-    participant FL as Fastlane
-    participant ST as Google Play
-
-    Dev->>CI: Push Git Tag / Release Trigger
-    CI->>CI: Run Automated Tests (80%+ Coverage)
-    CI->>FL: Trigger Build Flavors & Asset Injection
-    Note over FL: Inject Dynamic Branding & App IDs
-    FL->>FL: Compile Native Android & Flutter Packages
-    FL->>ST: Automated Store Deployment
-```
-
----
-
 ### 📈 Career Progression
 
 ```mermaid
@@ -103,6 +82,7 @@ flowchart LR
 #### 🚀 DevOps, Cloud, Payments & Testing
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="github-actions" />
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
@@ -131,10 +111,6 @@ flowchart LR
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahemk&theme=radical&hide_border=true" width="100%" alt="ibrahemk streak"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github.io-readme-activity-graph.vercel.app/graph?username=ibrahemk&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
